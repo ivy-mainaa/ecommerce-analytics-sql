@@ -15,6 +15,10 @@ A few things stood out that I wouldn't have expected going in:
 - Cancellation rates are actually healthy, under 1% consistently from 2017 onwards, with a few anomalies at the edges of the dataset from data cutoff issues.
 - Audio and fashion categories had the highest late delivery rates (~13%), but interestingly most orders in those categories still arrived early while the late ones are outliers dragging the average.
 
+## Revenue Trend
+
+![Monthly Revenue](visualizations/monthly_revenue.png)
+
 ---
 
 ## Project Structure
