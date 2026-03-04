@@ -93,3 +93,9 @@ Each module folder has standalone `.sql` files. Run them in order or jump to wha
 ## SQL Concepts Used
 
 Window functions (LAG, ROW_NUMBER, NTILE, FIRST_VALUE), CTEs, cohort analysis, multi-table JOINs, date functions, conditional aggregation with FILTER, rolling averages
+
+## Dashboard
+
+Interactive Tableau dashboard built on this same dataset — covers revenue trends, top categories, delivery performance, and cancellation rates.
+
+[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/ivy.maina/viz/OlistE-CommercePerformanceDashboard/Dashboard1)
